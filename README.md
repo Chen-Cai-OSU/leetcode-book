@@ -6,4 +6,6 @@ So here is descriptions and solutions to all leetcode problems in python in a si
 
 The original solution is obtained from [here](https://github.com/kamyu104/LeetCode-Solutions). If you find this helpful, please consider star the repo. I will gradually improve it (add difficult level, fix missing descriptions, etc) if people likes this. 
 
+![](./img.png)
+
 
